@@ -1,0 +1,6 @@
+README.md
+setup.py
+bw_test_pkg.egg-info/PKG-INFO
+bw_test_pkg.egg-info/SOURCES.txt
+bw_test_pkg.egg-info/dependency_links.txt
+bw_test_pkg.egg-info/top_level.txt
